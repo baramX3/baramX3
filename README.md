@@ -2,16 +2,12 @@
 ## Sohmee Kim
 I am an undergraduate student at University of Texas at Austin, interested in neuroscience research and data analysis!
 
-I am interested in understanding how the brain interacts with external stimuli and allows each person to have a unique persepctive on the world. So, I wish to pursue a career in neuroscience research, untangling the mysteries of the mind. To do so, I believe learning basic programming skills and data science skills are crucial (and fun to learn).
+I am interested in understanding how the brain interacts with external stimuli and allows each person to have a unique persepctive on the world. So, I wish to pursue a career in neuroscience research, untangling the mysteries of the mind. To do so, I believe learning basic programming skills and data science skills are crucial (and fun to learn!).
 
 - 😄 Pronouns: she/her/hers
 - 📫 How to reach me: sohmeekim@utexas.edu
 - 🔭 I’m currently taking courses on ... Foundation of Data Science (PSY 371E) and Quantitative Analysis in Neuroscience (NEU 340) at UT Austin 
-
-- 🌱 I’m currently learning ... 
--- basics of using GitHub and git commands
--- JupyterNotebook
--- using Python for simple data analysis and plotting
+- 🌱 I’m currently learning ... basics of using GitHub and git commands, JupyterNotebook, and using Python for simple data analysis and plotting
 
 <!--
 **baramX3/baramX3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
