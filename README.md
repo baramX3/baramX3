@@ -1,4 +1,8 @@
 ### Hi there 👋
+## Kim, Sohmee
+I am a undergraduate student at University of Texas at Austin, interested in Neuroscience research and data analysis!
+
+I am interested in understanding how the brain interacts with external stimuli and allows each person to have a unique persepctive on the world. So, I wish to pursue a career in neuroscience research, untangling the mysteries of the mind. To do so, I believe learning basic programming skills and data science skills are crucial.
 
 <!--
 **baramX3/baramX3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
