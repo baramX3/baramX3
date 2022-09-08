@@ -1,25 +1,25 @@
-### Hi there 👋
-## Sohmee Kim
-I am an undergraduate student at University of Texas at Austin, interested in neuroscience research and data analysis!
+# Hi, I'm [Sohmee](https://baramX3.github.io)! 👋
 
-I am interested in understanding how the brain interacts with external stimuli and allows each person to have a unique persepctive on the world. So, I wish to pursue a career in neuroscience research, untangling the mysteries of the mind. To do so, I believe learning basic programming skills and data science skills are crucial (and fun to learn!).
+> 💻 Undergraduate student | Neuroscience major
 
-- 😄 Pronouns: she/her/hers
-- 📫 How to reach me: sohmeekim@utexas.edu
-- 🔭 I’m currently taking courses on ... Foundation of Data Science (PSY 371E) and Quantitative Analysis in Neuroscience (NEU 340) at UT Austin 
-- 🌱 I’m currently learning ... basics of using GitHub and git commands, JupyterNotebook, and using Python for simple data analysis and plotting
+[![GitHub: @baramX3](https://img.shields.io/github/followers/availchet?label=follow&style=social)](https://github.com/baramX3)
+[![Gmail: sohmee](https://img.shields.io/badge/Gmail-sohmee-red)](mailto:sohmeekim@utexas.edu)
 
-<!--
-**baramX3/baramX3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate student, majoring in neuroscience, at Unversity of Texas at Austin (Austin, TX USA).
 
-Here are some ideas to get you started:
+I am most interested in studying how the brain percieves outside information and interprets it to create unique perceptions of the world. I am currently interested in going to graduate school and pursuing a career in neuroscience research. So, I hope to apply my programming and data analysis skills to research projects, unraveling the mysteries of the brain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my spare time, I like to read books, watch TV, and sleep- essentially, just relax.
+
+## ⚡ Stats
+![Sohmee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baramX3&hide=["issues"]&show_icons=true)
+![Sohmee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baramX3&hide=["issues"]&show_icons=true)
+
+##  🎉 Skills  🎉
+- **Languages**: basic Java and Python
+- **Misc**: Git, Adobe Illustrator
+
+[![HitCount](http://hits.dwyl.com/baramX3/baramX3.svg)](http://hits.dwyl.com/baramX3/baramX3)
+
+---
+⭐️ From [availchet](https://github.com/availchet)
