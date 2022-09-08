@@ -11,11 +11,11 @@ I am interested in studying how the brain interprets external stimuli to create 
 
 In my spare time, I like to read books, watch TV, and sleep- essentially, just relax.
 
-## ⚡ Stats & Skills 🎉
+## ⚡ Skills & Stats 🎉
 - **Languages**: basic Java and Python
 - **Misc**: Git, Adobe Illustrator
 
-![Sohmee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baramX3&hide=["issues"]&show_icons=true)
+![Sohmee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baramX3&show_icons=true)
 
 [![HitCount](http://hits.dwyl.com/baramX3/baramX3.svg)](http://hits.dwyl.com/baramX3/baramX3)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=baramX3)
