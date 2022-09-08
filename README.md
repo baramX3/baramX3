@@ -14,6 +14,7 @@ In my spare time, I like to read books, watch TV, and sleep- essentially, just r
 ## ⚡ Stats & Skills 🎉
 - **Languages**: basic Java and Python
 - **Misc**: Git, Adobe Illustrator
+
 ![Sohmee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baramX3&hide=["issues"]&show_icons=true)
 
 [![HitCount](http://hits.dwyl.com/baramX3/baramX3.svg)](http://hits.dwyl.com/baramX3/baramX3)
