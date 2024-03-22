@@ -10,7 +10,7 @@ I am an undergraduate student at Unversity of Texas at Austin (Austin, TX USA) a
 I am interested in studying how the brain interprets external stimuli to create unique perceptions of the world, and wish to pursue a career in research. So, I hope to apply my programming and data analysis skills to neuroscience research, unraveling the mysteries of the brain. In my spare time, I like to read books, watch TV, and sleep- essentially, just relax.
 
 ## ⚡ Skills & Stats 🎉
-- **Languages**: basic Java and Python
+- **Languages**: basic Java, Python and MATLAB
 - **Misc**: Git, Adobe Illustrator
 
 ![Sohmee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baramX3&show_icons=true)
